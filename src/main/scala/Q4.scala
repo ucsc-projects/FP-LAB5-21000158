@@ -7,10 +7,10 @@ object Q4 {
     oddOrEven(inp)
   }
 
-  def oddOrEven(a:Int){
-    if (a%2==0){
+  def oddOrEven(a: Int) {
+    if (a % 2 == 0) {
       println("Even")
-    }else{
+    } else {
       println("Odd")
     }
   }
